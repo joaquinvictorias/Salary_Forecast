@@ -6,3 +6,8 @@ Para desarrollar este proyecto se ha empleado una base de datos procedente de Ka
 
 Mención a Ricardo A. Ugas, Product Manager de Honeywell, por compartir esta base de datos:
 https://www.kaggle.com/datasets/ricardoaugas/salary-transparency-dataset-2022
+
+
+
+https://github.com/joaquinvictorias/Salary_Forecast/assets/120015424/a95e1c9a-bc77-4458-bbae-d776d9773526
+
